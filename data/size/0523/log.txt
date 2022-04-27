@@ -1,0 +1,9 @@
+crawl file size
+
+all video file size
+
+start:  0523 18:01:50
+finish:  0524 18:36:20
+
+video	time
+199691	88470

@@ -1,0 +1,13 @@
+normal crawl
+
+all information
+
+start:  0502 22:17:
+finish:  0503 2:05:07	(networking problem, stopped)
+
+	video	time
+0	236	
+1	1887	505
+2	11511	3365
+3	25604	9769	(networking problem, stopped)
+total	39238	13639
